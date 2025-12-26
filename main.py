@@ -3,9 +3,9 @@ from telethon import TelegramClient
 import asyncio
 import random
 
-API_ID = int(os.environ["API_ID"])
-API_HASH = os.environ["API_HASH"]
-GROUP_ID = int(os.environ["GROUP_ID"])
+API_ID = 34384738
+API_HASH = "5ec5a6a4d89e2f50f76a9ce62300e19a"
+GROUP_ID = -1003311162888
 
 session_name = "my_account"
 
